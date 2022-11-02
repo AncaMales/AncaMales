@@ -2,7 +2,7 @@
 - 👀 I’m interested in new opportunities in Software Testing.
 - 🌱 I recently graduated a Manual Tester Course/Internship at eJobs Group - Coderslab Project 
 where I accumulated important knowledge in the field and created a solid base through practice and working with various tools.
-- 💞️ I’m in a continuos proccess of learning manual testing tools. 
+- 💞️ I’m in a continuos proccess of learning manual testing tools, HTML, CSS and other tools. 
 - 💞️ I also have a keen interest in HTML, CSS. 
 - 🌱 On this site I would like to share my all gained experience from personal studies and courses.
 
