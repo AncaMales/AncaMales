@@ -1,8 +1,8 @@
 👋 **Hi, I’m Anca Maleș!**
-- 👀 I’m interested in new opportunities in Software Testing.
+- 👀 I’m interested in new opportunities in Software Testing!
 - 🌱 I recently graduated a Manual Tester Course/Internship at eJobs Group - Coderslab Project 
 where I accumulated important knowledge in the field and created a solid base through practice and working with various tools.
-- :brain: I’m in a continuos proccess of learning manual testing tools and techniques, HTML, CSS, MySQL, API, Postmann and the list will grow as I discover more and more the fascinating field of IT.
+- :brain: I’m in a continuos proccess of learning manual testing tools and techniques, HTML, CSS, MySQL and the list will grow as I discover more and more the fascinating field of IT.
 - :four_leaf_clover: On this site I would like to share my all gained experience from personal studies and courses.
 - :hearts: My values are: Commitment, An open mind, Persistence, Passion, Flexibility, Thankfulness, Integrity, Good Communication, Loyalty. And of course, Learning. Every day learn something new.  
 
