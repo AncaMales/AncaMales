@@ -24,10 +24,13 @@ My LinkedIn profile: https://www.linkedin.com/in/anca-male%C8%99/
 **Tools:**
 - Jira 
 - TestLink
+- Postman
 
 **Tech skills**
-- can perform functional testing on web applications;
-- can create scenarios, test cases and execute them in a test management tool;
-- can track bugs and create bug reports for the defects found;
+- performing functional testing on web applications;
+- creating scenarios, test cases and execute them in a test management tool;
+- tracking bugs and create bug reports for the defects found;
 - can apply test design techniques such as boundary value analisys, equivalence paritioning to derive test cases;
+- tested different APIs using POST, PUT, GET, DELETE methods
+- know how to read an API documentation
 - HTML, CSS
